@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💖 Estudante de SPI na UNIPE<br>💖 Apaixonada pelo front-end<br>💖 Atualmente estou no terceiro período de SPI<br>💖 Gosto de designer criativos</p>
+<p align="left">💖 Estudante de SPI na UNIPE<br>💖 Apaixonada pelo front-end<br>💖  Atualmente estou no terceiro período de SPI<br>💖 Gosto de designer criativos</p>
 
 ###
 
@@ -31,9 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luciaralima18&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luciaralima18&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/luciaralima18/luciaralima18/output/snake.svg" alt="Snake animation" />
 
 ###
