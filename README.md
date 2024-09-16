@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de SPI na UNIPE<br>- Apaixonada pelo front-end<br>- Atualmente estou no terceiro período de SPI<br>- Gosto de designer criativos</p>
+<p align="left">💖 Estudante de SPI na UNIPE<br>💖 Apaixonada pelo front-end<br>💖 Atualmente estou no terceiro período de SPI<br>💖 Gosto de designer criativos</p>
 
 ###
 
