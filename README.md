@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💖 Estudante de SPI na UNIPE<br>💖 Apaixonado pelo back-end<br>💖 Atualmente estou no terceiro período de SPI<br>💖 Gosto de software intuitivo</p>
+<p align="left">💖 Estudante de SPI na UNIPE<br>💖 Apaixonado pelo FRONT-END<br>💖 Gosto de software intuitivo</p>
 
 ###
 
